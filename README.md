@@ -19,6 +19,7 @@
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-| <a href="https://github.com/daniel1kp/github-readme-stats"><img align="center" src="https://https://github-readme-stats-zqwv-daniel1kp.vercel.app/api?username=daniel1kp&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&hide=stars" alt="Daniel's github stats" /></a> | <a href="https://github.com/daniel1kp/github-readme-stats"><img align="center" src="https://https://github-readme-stats-zqwv-daniel1kp.vercel.app/api/top-langs/?username=daniel1kp&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
-| ------------- | ------------- |
+<br><br>
+| GitHub Stats | Top Languages |
+| --- | --- |
+| [![GitHub Stats](https://github-readme-stats-daniel1kp.vercel.app/api?username=daniel1kp&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars)](https://github.com/daniel1kp/github-readme-stats) | [![Top Languages](https://github-readme-stats-daniel1kp.vercel.app/api/top-langs/?username=daniel1kp&count_private=true&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/daniel1kp/github-readme-stats) |
