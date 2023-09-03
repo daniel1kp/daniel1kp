@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel1kp&label=Profile%20Views&color=0040d6&style=flat-square" alt="daniel1kp" /> </p>
 
-*Languages and Tools:*
+**Languages and Tools:**
 <br><br>
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
