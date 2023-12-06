@@ -22,4 +22,4 @@
 <br><br>
 | GitHub Stats | Top Languages |
 | --- | --- |
-| [![GitHub Stats](https://github-readme-stats-git-master-daniel1kp.vercel.app/api?username=daniel1kp&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars)](https://github.com/daniel1kp/github-readme-stats) | [![Top Languages](github-readme-stats-git-master-daniel1kp.vercel.app/api/top-langs/?username=daniel1kp&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)](https://github.com/daniel1kp/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats-git-master-daniel1kp.vercel.app/api?username=daniel1kp&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars)](https://github.com/daniel1kp/github-readme-stats) | [![Top Languages](https://github-readme-stats-git-master-daniel1kp.vercel.app/api/top-langs/?username=daniel1kp&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)](https://github.com/daniel1kp/github-readme-stats) |
