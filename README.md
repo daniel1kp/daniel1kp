@@ -20,6 +20,13 @@
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br><br>
-| GitHub Stats | Top Languages |
-| --- | --- |
-| [![GitHub Stats](https://github-readme-stats-git-master-daniel1kp.vercel.app/api?username=daniel1kp&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars)](https://github.com/daniel1kp/github-readme-stats) | [![Top Languages](https://github-readme-stats-git-master-daniel1kp.vercel.app/api/top-langs/?username=daniel1kp&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)](https://github.com/daniel1kp/github-readme-stats) |
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats-git-master-daniel1kp.vercel.app/api?username=daniel1kp&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars)
+![](https://nirzak-streak-stats.vercel.app/?user=daniel1kp&theme=midnight_purple&hide_border=true)
+![](https://github-readme-stats-git-master-daniel1kp.vercel.app/api/top-langs/?username=daniel1kp&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=daniel1kp&theme=midnight_purple&no-frame=false&no-bg=true&margin-w=4)
+---
